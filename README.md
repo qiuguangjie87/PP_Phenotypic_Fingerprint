@@ -9,16 +9,16 @@ pip install timm numpy opencv-python scipy matplotlib einops antialiased_cnns tq
 ```
 
 ## Pretrained Weights of LGASSNet
-# Pre-trained models for lettuce phenotypic trait analysis:
+Pre-trained models for lettuce phenotypic trait analysis:
 
-Pre-trained LGASSNet_l0 weight: [Download](https://github.com/qiuguangjie87/PP_Phenotypic_Fingerprint/raw/main/PP_Phenotypic_Fingerprint_main/LGASSNet_Lettuce_main/weights/LGASSNet_l0_weights.pth)
+Lettuce 400-epoch pre-trained LGASSNet_l0_weights: [Download](https://github.com/qiuguangjie87/PP_Phenotypic_Fingerprint/raw/main/PP_Phenotypic_Fingerprint_main/LGASSNet_Lettuce_main/weights/LGASSNet_l0_weights.pth)
 
-Pre-trained LGASSNet_l2 weight: [Download](https://github.com/qiuguangjie87/PP_Phenotypic_Fingerprint/raw/main/PP_Phenotypic_Fingerprint_main/LGASSNet_Lettuce_main/weights/LGASSNet_l2_weights.pth)
+Lettuce 400-epoch pre-trained LGASSNet_l2_weights: [Download](https://github.com/qiuguangjie87/PP_Phenotypic_Fingerprint/raw/main/PP_Phenotypic_Fingerprint_main/LGASSNet_Lettuce_main/weights/LGASSNet_l2_weights.pth)
 
 
 
 ## Pretrained Weights of Backbones
-# If you want to train from scratch, download the following ImageNet pre-trained backbones:
+If you want to train from scratch, download the following ImageNet pre-trained backbones:
 
 
 Imagenet 300-epoch pre-trained LWGANet-L0 backbone: [Download](https://github.com/lwCVer/LWGANet/releases/download/weights/lwganet_l0_e299.pth)
