@@ -8,7 +8,17 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 pip install timm numpy opencv-python scipy matplotlib einops antialiased_cnns tqdm pandas optuna
 ```
 
+## Pretrained Weights of LGASSNet
+# Pre-trained models for lettuce phenotypic trait analysis:
+
+Pre-trained LGASSNet_l0 backbone: [Download](PP_Phenotypic_Fingerprint_main/LGASSNet_Lettuce_main/weights/LGASSNet_l0_weights.pth)
+
+Pre-trained LGASSNet_l2 backbone: [Download](PP_Phenotypic_Fingerprint_main/LGASSNet_Lettuce_main/weights/LGASSNet_l2_weights.pth)
+
+
+
 ## Pretrained Weights of Backbones
+# If you want to train from scratch, download the following ImageNet pre-trained backbones:
 
 
 Imagenet 300-epoch pre-trained LWGANet-L0 backbone: [Download](https://github.com/lwCVer/LWGANet/releases/download/weights/lwganet_l0_e299.pth)
