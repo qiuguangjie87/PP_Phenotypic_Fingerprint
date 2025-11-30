@@ -4,7 +4,7 @@ Create a new conda virtual environment:
 ```
 conda create -n LGASSNet python==3.8.5
 conda activate LGASSNet
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu111
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu111
 pip install timm numpy opencv-python scipy matplotlib einops antialiased_cnns tqdm pandas optuna
 ```
 
@@ -33,10 +33,15 @@ Imagenet 300-epoch pre-trained LWGANet-L2 backbone: [Download](https://github.co
 
 Backbone:
 @inproceedings{lu2026lwganet,
+
   title={LWGANet: Addressing Spatial and Channel Redundancy in Remote Sensing Visual Tasks with Light-Weight Grouped Attention},
+  
   author={Lu, Wei and Yang, Xue and Chen, Si-Bao},
+  
   booktitle={AAAI Conference on Artificial Intelligence},
+  
   pages={},
+  
   year={2026}
 }
 
