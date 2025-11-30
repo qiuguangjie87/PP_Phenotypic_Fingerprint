@@ -33,15 +33,10 @@ Imagenet 300-epoch pre-trained LWGANet-L2 backbone: [Download](https://github.co
 
 Backbone:
 @inproceedings{lu2026lwganet,
-
   title={LWGANet: Addressing Spatial and Channel Redundancy in Remote Sensing Visual Tasks with Light-Weight Grouped Attention},
-  
   author={Lu, Wei and Yang, Xue and Chen, Si-Bao},
-  
   booktitle={AAAI Conference on Artificial Intelligence},
-  
   pages={},
-  
   year={2026}
 }
 
